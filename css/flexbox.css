@@ -15,6 +15,16 @@
     flex-wrap: wrap;
 }
 
+.contenidoPrincipal-cursos{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.contenidoPrincipal-cursos-link {
+    display: flex;
+    width: 23%;
+}
+
 .rodapePrincipal-patrocinadores .container{
     display: flex;
     justify-content: space-between;
